@@ -41,12 +41,16 @@ Lanyon has two branches, but only one is used for active development.
 
 ## Author
 
+> A Lanyon-téma szerzője.
+
 **Mark Otto**
 - <https://github.com/mdo>
 - <https://twitter.com/mdo>
 
 
 ## License
+
+> A Lanyon-téma jogi nyilatkozata.
 
 Open sourced under the [MIT license](LICENSE.md).
 
