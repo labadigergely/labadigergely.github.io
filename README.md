@@ -1,4 +1,4 @@
-## Labádi Gergely </filológia>
+## Labádi Gergely &lt;/filológia&gt;
 
 Személyes honlap, amely saját tartalmakat és mások által gondozott tartalmakra mutató linkeket tartalmaz. Digitális és nem digitális bölcsészet… Szóval ahogy a honlapon áll.
 
