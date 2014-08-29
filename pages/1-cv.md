@@ -4,8 +4,8 @@ title: Életrajz
 ---
 
 > <div>
->        <a href="#tanulmanyok">Tanulmányok</a> | 
->        <a href="#munkahely">Munkahely</a> | 
+>        <a href="#tanulmanyok">Tanulmányok</a> • 
+>        <a href="#munkahely">Munkahely</a> • 
 >        <a href="#kutatasi_projektek">Kutatási projektek</a> • 
 >        <a href="#intezmenyi_tagsag">Intézményi tagság</a> • 
 >        <a href="#osztondijak_elismeresek">Ösztöndíjak, elismerések</a> • 
