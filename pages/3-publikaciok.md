@@ -15,6 +15,7 @@ title: Publikációk
 
 ##Kritikai kiadások, forráskiadások
 
+- Kis János: *A' Magyar Páméla*. S. a. r. Labádi Gergely. Budapest: reciti. 2014.
 - *Német Máté koma.* S. a. r., utószó, jegyzetek Labádi Gergely, Balázs Péter. Budapest: Balassi, 2014.
 - *Barátságos mulatozások. Episztolagyűjtemények az 1770–1780-as évekből.* Kiad. Labádi Gergely. Budapest: Universitas. 2012.
 - Gyulay Lajos: *Martius 15 (1867. március 14. – 1867. május 30.)* S. a. r., bev. Labádi Gergely. Szeged. 2008. • [online-változat]() • [bevezetés](http://www.kiad.hu/bibl/gyulay/labadigergely_lottyfanny.pdf)
@@ -25,6 +26,7 @@ title: Publikációk
 
 ##Tanulmányok, cikkek
 
+- Labádi Gergely: A' Magyar Páméla és forrása. In Kis János: A' Magyar Páméla. S. a. r. Labádi Gergely. Budapest: reciti. 2014, 7–42.
 - Labádi Gergely: Gedő József kézirataiból. *Irodalomtörténeti Közlemények.* 117.3 (2013), 323–344. (tanulmány és forrásközlés)
 - [Labádi Gergely: Zadig, Zádig, Cserei. Tudásformák a magyar regényben 1800 körül. *Filológiai közlöny.* 58.4 (2012), 369–395.](https://www.academia.edu/4342355/Zadig_Zadig_Cserei._Tudasformak_a_magyar_regenyben_1800_korul)
 - [Labádi Gergely: „No ez már Cultura”. Csokonai és a kultúra diskurzusa. In Pusztai Bertalan (szerk.): *Médiumok, történetek, használatok. Ünnepi tanulmánykötet a 60 éves Szajbély Mihály tiszteletére.* Szeged: Szegedi Tudományegyetem Kommunikáció- és Médiatudományi Tanszék. 2012: 48–63.](http://www.media.u-szeged.hu/szajbely60/pdf/labadi.pdf)
