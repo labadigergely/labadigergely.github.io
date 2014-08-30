@@ -8,15 +8,15 @@ tags: digitális&nbsp;bölcsészet oktatás
 > előadás, csütörtök, 8.30–10, Sík Sándor Irodalmi Olvasó
 
 
-#Kurzusleírás
+##Kurzusleírás
 A kurzus a szövegekről szóló ismereteink tárolásának és közlésének problematikáját kutatja a kiadáselmélet alapfogalmainak, -prolémáinak elemzésén keresztül.
 
-#Követelmények
+##Követelmények
 A kurzus sikeres teljesítésének feltétele 1) az első órán történő megbeszélés alapján egy digitalizációs projekt ismertetése, 2) egy szakszöveg kiselőadás formában történő bemutatása, valamint 3) a tanév végén egy írásbeli vizsga teljesítése.
 
 A végső érdemjegy a felsorolt feladatok százalékos arányában kerül megállapításra, de egyik sem lehet elégtelen. (20% + 20% + 60% \[projekt + szakszöveg + írásbeli vizsga\])
 
-#Tematika
+##Tematika
 - 2014-09-04  
 **Óramegbeszélés**
 
@@ -70,7 +70,7 @@ A végső érdemjegy a felsorolt feladatok százalékos arányában kerül megá
 - 2014-12-11  
 **Zárthelyi dolgozat**
 
-#Szakirodalom
+##Szakirodalom
 > További felhasznált és ajánlott szakirodalmi tételek az egyes előadások diáin.
 
 - [Alapelvek az irodalmi szövegek tudományos kiadásához](http://www.textologia.iti.mta.hu/alapelvek.pdf)
