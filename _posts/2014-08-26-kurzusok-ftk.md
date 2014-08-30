@@ -103,6 +103,8 @@ A végső érdemjegy a felsorolt feladatok százalékos arányában kerül megá
 
 - Onder Csaba: *A klasszika virágai*. Debrecen, Kossuth Egyetemi Kiadó, 2003, 21–184.
 
+- [Parádi Andrea: Internetes kritikai szövegkiadás. In Bíbor Máté et al.: *A magyar irodalom filológiája.* Budapest: Gépeskönyv. 2005.](http://www.tankonyvtar.hu/hu/tartalom/tkt/magyar-irodalom/ch13.html)
+
 - Péter László (szerk.): Irodalmi szövegek kritikai kiadásának szabályzata. In *Filológia. Bevezetés a régi magyar irodalom filológiájába.* Szerk. Hargittay Emil. Budapest: Universitas, 1996, 74–91.
 
 - Stoll Béla: Szövegkritikai problémák a magyar irodalomban. In *Filológia. Bevezetés a régi magyar irodalom fi­lológiájába.* Szerk. Hargittay Emil. Budapest: Universitas, 1996, 114–170.
