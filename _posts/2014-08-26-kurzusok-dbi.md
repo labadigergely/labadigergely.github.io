@@ -21,9 +21,9 @@ A kurzus második részében egy kéziratos forrás digitális feldolgozásának
 
 - 2014-09-11  
 **A tudás jelentései**  
--- [Vilém Flusser: A sakk. In Vilém Flusser: *Az ágy.* Ford. Sebők Zoltán. Budapest: Kijárat. 1996: 5–14; 27–39.](http://www.artpool.hu/Flusser/flusser.html#agy)
--- György Péter: *Memex. A könyvbe zárt tudás. *Budapest: Magvető. 2002: 9–24, 104–142.
--- [Golden Dániel: Remix cyberculturalis (György Péter Memex c. könyvéről). *Világosság.* 2003/5–6: 245–255.](http://www.vilagossag.hu/pdf/20030702151903.pdf)
+  + [Vilém Flusser: A sakk. In Vilém Flusser: *Az ágy.* Ford. Sebők Zoltán. Budapest: Kijárat. 1996: 5–14; 27–39.](http://www.artpool.hu/Flusser/flusser.html#agy)
+  + György Péter: *Memex. A könyvbe zárt tudás. *Budapest: Magvető. 2002: 9–24, 104–142.
+  + [Golden Dániel: Remix cyberculturalis (György Péter Memex c. könyvéről). *Világosság.* 2003/5–6: 245–255.](http://www.vilagossag.hu/pdf/20030702151903.pdf)
 
 - 2014-09-18  
 **A hálózatok természete**  
