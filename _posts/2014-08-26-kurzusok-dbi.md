@@ -11,7 +11,7 @@ tags: digitális&nbsp;bölcsészet oktatás
 A szeminárium célja, hogy a hallgatók elméleti szövegeken és gyakorlati példákon keresztül megismerkedjenek a digitális forradalomnak a szellemtudományokra gyakorolt hatásával, valamint, hogy képesek legyenek maguk is létrehozni digitális tartalmakat.
 
 ##Követelmények
-2014. október 16-ig el kell készíteni egy wikipedia-szócikket valamely magyar irodalmi alkotásról, amelynek még nincs szócikke, vagy jelentősen át kell dolgozni, ki kell egészíteni, ha már van. A szócikknek be kell tartania a wikipedia szabályait és legalább 5000 karakter terjedelműnek kell lennie – még abban az esetben is, ha létezik a regénynek szócikke. A feldolgozandó művet 2014. szeptember 11-ig kell kiválasztani.
+A hallgatóknak 2014. október 16-ig el kell készíteni egy wikipedia-szócikket valamely magyar irodalmi alkotásról, amelynek még nincs szócikke, vagy jelentősen át kell dolgozni, ki kell egészíteni, ha már van. A szócikknek be kell tartania a wikipedia szabályait és legalább 5000 karakter terjedelműnek kell lennie – még abban az esetben is, ha létezik a regénynek szócikke. A feldolgozandó művet 2014. szeptember 11-ig kell kiválasztani.
 
 A kurzus második részében egy kéziratos forrás digitális feldolgozásának elméleti és gyakorlati kérdéseivel ismerkednek meg hallgatók, 2014. december 11-ig három rövid szöveg (levél) betűhív átírását és TEI-konform szerkezeti xml-kódolását kell elvégezni.
 
