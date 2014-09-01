@@ -9,7 +9,7 @@ tags: klasszikus&nbsp;magyar&nbsp;irodalom oktatás
 
 
 ##Kurzusleírás
-A *Magyar Irodalom a 18–19. században* című kurzus elsődleges célja, hogy az oktatási kánonban kiemelt szerepet kapott 18–19. századi magyar irodalmi szövegek
+A *Szöveg és interpretáció – klasszikus magyar irodalom* című kurzus elsődleges célja, hogy az oktatási kánonban kiemelt szerepet kapott 18–19. századi magyar irodalmi szövegek
 modern értelmezésével megismerkedjenek a hallgatók, illetve értelmezésük módszertani problémáihoz reflexíven közeledjenek.
 
 Az egyes órákon a megadott forrásszövegek értelmezése melle a klasszikus magyar irodalommal kapcsolatos módszertani kérdéseket is tárgyalni fogunk egy-egy rövidebb tanulmány, könyvrészlet értelmezésén keresztül. Minden óra egy szövegismeretet ellenőrző dolgozattal kezdődik, ezután következik a cikk megtárgyalása,
@@ -20,13 +20,14 @@ A félév során írásbeli és szóbeli feladatokat kell elvégezni. Írásbeli
 feladatokat, bármelyiket, akkor a szemináriumot nem teljesítette.
 
 ###Határidők
-2014. december 2.
+2014\. december 2.
 >Szemináriumi dolgozatok elküldése.
 
-2014. december 9.
+2014\. december 9.
 >Pótesszék elküldése.
 
 ###Szemináriumi dolgozat
+
 ####Formai elvárások
 A 2500 szó a járulékos részek, tehát a címlap, a tartalomjegyzék, az esetleges táblázatok, képek és mellékletek nélkül értendő.
 
@@ -41,6 +42,7 @@ A dolgozatnak bizonyítani kell, hogy írója ismeri az adott problémához kapc
 általános elvárásoknak.
 
 ###Referátum
+
 ####Formai elvárások
 A referátum érvelésének jól követhetőnek kell lennie. Ehhez vagy egy nyomtatott vázlatot kell szétosztani, vagy egy prezentációt kell készíteni (laptop és projektor biztosítva, az elérhető formátumok: ppt, odp, pdf, prezi \[van internetkapcsolat\]).
 
