@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Narratív tudás: 18–19. századi magyar irodalom
+title: Narratív tudás – 18–19. századi magyar irodalom
 categories: kurzusok_2014_osz
 tags: klasszikus&nbsp;magyar&nbsp;irodalom oktatás
 ---
