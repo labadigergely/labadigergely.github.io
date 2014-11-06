@@ -26,6 +26,7 @@ title: Publikációk
 
 ##Tanulmányok, cikkek
 
+- Labádi Gergely: Könyvek távolról. A magyar regény 1807-ben. *Irodalomtörténet* 95.3 (2014), 311–332.
 - Labádi Gergely: A' Magyar Páméla és forrása. In Kis János: A' Magyar Páméla. S. a. r. Labádi Gergely. Budapest: reciti. 2014, 7–42.
 - Labádi Gergely: Gedő József kézirataiból. *Irodalomtörténeti Közlemények.* 117.3 (2013), 323–344. (tanulmány és forrásközlés)
 - [Labádi Gergely: Zadig, Zádig, Cserei. Tudásformák a magyar regényben 1800 körül. *Filológiai közlöny.* 58.4 (2012), 369–395.](https://www.academia.edu/4342355/Zadig_Zadig_Cserei._Tudasformak_a_magyar_regenyben_1800_korul)
