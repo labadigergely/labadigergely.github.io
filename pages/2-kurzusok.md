@@ -6,7 +6,7 @@ title: Kurzusok
 > Az aktuális félév [oktatási naptára](https://www.google.com/calendar/embed?src=lrqh2drcev41fevg3htl7argfk%40group.calendar.google.com&ctz=Europe/Budapest).
 
 {% capture posts %}
-  {% for post in site.categories.kurzusok_2014_osz %}
+  {% for post in site.categories.kurzusok_2015_tavasz %}
     |{{ post.title }}#{{ post.url }}
   {% endfor %}
 {% endcapture %}
