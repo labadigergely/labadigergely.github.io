@@ -15,7 +15,7 @@ title: Publikációk
 
 ##Kritikai kiadások, forráskiadások
 
-- Kis János: *A' Magyar Páméla*. S. a. r. Labádi Gergely. Budapest: reciti. 2014.
+- [Kis János: *A' Magyar Páméla*. S. a. r. Labádi Gergely. Budapest: reciti. 2014.](http://reciti.hu/2014/2256)
 - *Német Máté koma.* S. a. r., utószó, jegyzetek Labádi Gergely, Balázs Péter. Budapest: Balassi, 2014.
 - *Barátságos mulatozások. Episztolagyűjtemények az 1770–1780-as évekből.* Kiad. Labádi Gergely. Budapest: Universitas. 2012.
 - Gyulay Lajos: *Martius 15 (1867. március 14. – 1867. május 30.)* S. a. r., bev. Labádi Gergely. Szeged. 2008. • [online-változat]() • [bevezetés](http://www.kiad.hu/bibl/gyulay/labadigergely_lottyfanny.pdf)
@@ -101,6 +101,7 @@ title: Publikációk
 
 ### Recenziók, kritikák
 
+- Labádi Gergely: Franco Moretti: Distant reading. *Irodalomtörténet*. 95.4 (2014),561-564.
 - [Labádi Gergely: A források provokációja. Biró Annamária: Nemzetek Erdélyben. August Ludwig Schlözer és Aranka György vitája. *Korunk,* 2012. december, 116–118.]()
 - [Labádi Gergely: Takáts József: Ismerős idegen terep. Irodalomtörténeti tanulmányok és bírálatok. *Irodalomtörténeti Közlemények,* 2010/1: 90–95.]()
 -  [Labádi Gergely: Prima manus. Tanulmányok a felvilágosodás korának magyar irodalmából. Szerk. Keszeg Anna és Vaderna Gábor. Ráció Kiadó, 2008. *Irodalomtörténet,* 2009/2, 257-262.]
