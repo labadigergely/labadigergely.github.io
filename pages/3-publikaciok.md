@@ -26,8 +26,8 @@ title: Publikációk
 
 ##Tanulmányok, cikkek
 
-- Labádi Gergely: Könyvek távolról. A magyar regény 1807-ben. *Irodalomtörténet* 95.3 (2014), 311–332.
-- Labádi Gergely: A' Magyar Páméla és forrása. In Kis János: A' Magyar Páméla. S. a. r. Labádi Gergely. Budapest: reciti. 2014, 7–42.
+- [Labádi Gergely: Könyvek távolról. A magyar regény 1807-ben. *Irodalomtörténet* 95.3 (2014), 311–332.](https://www.academia.edu/10667665/K%C3%B6nyvek_t%C3%A1volr%C3%B3l._A_magyar_reg%C3%A9ny_1807-ben)
+- Labádi Gergely: A' Magyar Páméla és forrása. In [Kis János: A' Magyar Páméla. S. a. r. Labádi Gergely. Budapest: reciti. 2014](http://reciti.hu/2014/2256), 7–42.
 - Labádi Gergely: Gedő József kézirataiból. *Irodalomtörténeti Közlemények.* 117.3 (2013), 323–344. (tanulmány és forrásközlés)
 - [Labádi Gergely: Zadig, Zádig, Cserei. Tudásformák a magyar regényben 1800 körül. *Filológiai közlöny.* 58.4 (2012), 369–395.](https://www.academia.edu/4342355/Zadig_Zadig_Cserei._Tudasformak_a_magyar_regenyben_1800_korul)
 - [Labádi Gergely: „No ez már Cultura”. Csokonai és a kultúra diskurzusa. In Pusztai Bertalan (szerk.): *Médiumok, történetek, használatok. Ünnepi tanulmánykötet a 60 éves Szajbély Mihály tiszteletére.* Szeged: Szegedi Tudományegyetem Kommunikáció- és Médiatudományi Tanszék. 2012: 48–63.](http://www.media.u-szeged.hu/szajbely60/pdf/labadi.pdf)
@@ -101,7 +101,7 @@ title: Publikációk
 
 ### Recenziók, kritikák
 
-- Labádi Gergely: Franco Moretti: Distant reading. *Irodalomtörténet*. 95.4 (2014),561-564.
+- Labádi Gergely: Franco Moretti: Distant reading. *Irodalomtörténet*. 95.4 (2014), 561-564.
 - [Labádi Gergely: A források provokációja. Biró Annamária: Nemzetek Erdélyben. August Ludwig Schlözer és Aranka György vitája. *Korunk,* 2012. december, 116–118.]()
 - [Labádi Gergely: Takáts József: Ismerős idegen terep. Irodalomtörténeti tanulmányok és bírálatok. *Irodalomtörténeti Közlemények,* 2010/1: 90–95.]()
 -  [Labádi Gergely: Prima manus. Tanulmányok a felvilágosodás korának magyar irodalmából. Szerk. Keszeg Anna és Vaderna Gábor. Ráció Kiadó, 2008. *Irodalomtörténet,* 2009/2, 257-262.]
