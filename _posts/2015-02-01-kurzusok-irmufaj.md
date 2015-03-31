@@ -1,6 +1,6 @@
 
 ---
-layout: posts
+layout: post
 title: Irodalmi műfajok elmélete és története a 18&ndash;19. században
 categories: kurzusok_2015_tavasz
 tags: klasszikus&ndash;magyar&ndash;irodalom oktatás
