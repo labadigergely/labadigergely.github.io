@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title: Irodalmi műfajok elmélete és története a 18&ndash;19. században
 categories: kurzusok_2015_tavasz
 tags: klasszikus&ndash;magyar&ndash;irodalom oktatás
 ---
+
 > szeminárium, szerda, 12&ndash;13.30, Sík Sándor Irodalmi Olvasó
 
 ###Kurzusleírás
