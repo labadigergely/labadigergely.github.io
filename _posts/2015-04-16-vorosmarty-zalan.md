@@ -5,7 +5,7 @@ categories: lesebibliothek
 tags: eposz 19&nbsp;század Vörösmarty&nbsp;Mihály
 ---
 
-Vörösmarty Mihály *Zalán futása* c. klasszikus eposza.
+Vörösmarty Mihály *Zalán futása* c. klasszikus eposza. Bécsből.
 
 Egyben nem tölthető le `.pdf` formátumú képfájlok. Nincs `ocr`.
 
