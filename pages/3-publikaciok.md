@@ -73,8 +73,7 @@ title: Publikációk
 <a name="eloadasok"></a>
 
 ## Konferenciaelőadások
-
-– Labádi Gergely: Translating the Picaresque = Opening Markets – 14th International Congress for Eighteenth-Century Studies. ISECS 2015 – SIEDS 2015. Rotterdam, 2015. július 27–31.
+- Labádi Gergely: Translating the Picaresque = Opening Markets – 14th International Congress for Eighteenth-Century Studies. ISECS 2015 – SIEDS 2015. Rotterdam, 2015. július 27–31.
 - Labádi Gergely: Történetet olvasni – történetként olvasni. = Nunquam autores, semper interpretes. A XVIII. századi magyar fordításirodalomról. MTA BTK ITI XVIII. Századi Osztály, ME Irodalomtudományi Doktori Iskola, Miskolc, 2014. október 1–3.
 - Labádi Gergely: A falu jegyzője jegyzeteiről. = Eötvös újraolvasó. ELTE BTK XVIII-XIX. Századi Magyar Irodalomtörténeti Tanszék, Budapest, 2013. november 15.
 - [Labádi Gergely: A filológiai tudás formái. = Textológia – Filológia – Értelmezés. A 18–19. századi magyar irodalom. MTA--DE Textológiai Kutatócsoport, Miskolci Egyetem Irodalomtudományi DI, Miskolc, 2013. május 29–31.](https://www.academia.edu/5395337/A_filologiai_tudas_formai)
