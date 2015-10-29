@@ -73,6 +73,8 @@ title: Publikációk
 <a name="eloadasok"></a>
 
 ## Konferenciaelőadások
+- Labádi Gergely: Egy kétségbeesett apa levelei. Irodalom és nevelés az 1830-as években. = A két Kisfaludy. KRE Magyar Nyelv-, Irodalom- és Kultúratudományi Intézete, Tempevölgy folyóirat, Balatonfüred, 2015. október 23–24.
+- Kokas Károly, Labádi Gergely, Péter Róbert: Digitális bölcsészet Szegeden, SZTE BTK–SZTE JATIK, Szeged, 2015. október 12. (szervező)
 - Labádi Gergely: Translating the Picaresque = Opening Markets – 14th International Congress for Eighteenth-Century Studies. ISECS 2015 – SIEDS 2015. Rotterdam, 2015. július 27–31.
 - Labádi Gergely: Történetet olvasni – történetként olvasni. = Nunquam autores, semper interpretes. A XVIII. századi magyar fordításirodalomról. MTA BTK ITI XVIII. Századi Osztály, ME Irodalomtudományi Doktori Iskola, Miskolc, 2014. október 1–3.
 - Labádi Gergely: A falu jegyzője jegyzeteiről. = Eötvös újraolvasó. ELTE BTK XVIII-XIX. Századi Magyar Irodalomtörténeti Tanszék, Budapest, 2013. november 15.
