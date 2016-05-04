@@ -61,6 +61,7 @@ title: Publikációk
 
 ###Könyvek
 
+- ReTextum. Sorozatszerk. Hegedüs Béla, Labádi Gergely. reciti. Budapest, 2014–
 - klasszikus - magyar - irodalom - történet. tanulmányok 2003. Szerk. Dajkó Pál, Labádi Gergely. Tiszatáj Könyvkiadó, Szeged, 2003.
 
 ###Elektronikus publikáció, adatbázis
@@ -73,6 +74,7 @@ title: Publikációk
 <a name="eloadasok"></a>
 
 ## Konferenciaelőadások
+- Bátori Anna, Labádi Gergely: Egy regényadatbázis felépítése – kérdések és lehetőségek = DHU 2015. Számítógép az irodalomtudományban, MTA BTK Irodalomtudományi Intézet, BME Méréstechnika és Információs Rendszerek Tanszék, Budapest, 2015. november 24.
 - Labádi Gergely: Egy kétségbeesett apa levelei. Irodalom és nevelés az 1830-as években. = A két Kisfaludy. KRE Magyar Nyelv-, Irodalom- és Kultúratudományi Intézete, Tempevölgy folyóirat, Balatonfüred, 2015. október 23–24.
 - [Kokas Károly, Labádi Gergely, Péter Róbert: Digitális bölcsészet Szegeden, SZTE BTK–SZTE JATIK, Szeged, 2015. október 12. (szervező)](http://digibolcsesz.ek.szte.hu)
 - [Labádi Gergely: Translating the Picaresque = Opening Markets – 14th International Congress for Eighteenth-Century Studies. ISECS 2015 – SIEDS 2015. Rotterdam, 2015. július 27–31.](https://www.academia.edu/14491532/Translating_the_Picaresque)
