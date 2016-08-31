@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Róbert Péter élete• 1797
+title: Otto Verdion • Róbert Péter élete • 1797
 categories: lesebibliothek
-tags: 18.&nbsp;század regény
+tags: 18.&nbsp;század regény Verdion,&nbsp;Otto
 ---
 A *Róbert Péter' született anglus' élete és különös történetei** című pikareszk elemekkel rendelkező, egykor népszerű robinzonád. A digitalizált példány az OSZK ELDORADO szolgáltatása keretében készült. Én kértem, tessék olvasni. `Pdf` kiterjesztésű fájl. Automatikus `ocr`, de elég jó minőségű, könnyen javítható hibákkal.
 
