@@ -26,6 +26,7 @@ title: Publikációk
 
 ##Tanulmányok, cikkek
 
+- Labádi Gergely: A pikareszk Magyarországon a 18–19. század fordulóján. *Irodalomtörténeti Közlemények.* 120.2 (2016), 178–190.
 - Labádi Gergely: A filológiai tudás formái. In Czifra Mariann, Szilágyi Márton (szerk.). *Textológia - filológia - értelmezés. Klasszikus magyar irodalom.* Debrecen: Debreceni Egyetemi Kiadó. 2014: 173–190.
 - Labádi Gergely: A kultúra koncepciói az 1810-es években: Fordítások az Erdélyi Muzéum körül. In Egyed Emese (szerk.). *IRODALOMÉRTELMEZÉSEK A FELVILÁGOSODÁSTÓL NAPJAINKIG: I. MAGYAR FELVILÁGOSODÁS. IRODALOM II. (MŰ)FORMA ÉS ÉRTELMEZÉS.* Kolozsvár: Egyetemi Kiadó. 2014: 97–106.
 - [Labádi Gergely: Könyvek távolról. A magyar regény 1807-ben. *Irodalomtörténet* 95.3 (2014), 311–332.](https://www.academia.edu/10667665/K%C3%B6nyvek_t%C3%A1volr%C3%B3l._A_magyar_reg%C3%A9ny_1807-ben)
