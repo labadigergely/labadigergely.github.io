@@ -16,5 +16,5 @@ title: Olvasó kabinét
 {% assign sortedposts = posts | split: '|' | sort %}
 {% for post in sortedposts %}
     {% assign postitems = post | split: '#' %}
-<div>{% if postitems[1] %}    [<a href="{{ postitems[1] }}">]({{ postitems[0] }})</a><br> {% endif %}</div>
+<div>{% if postitems[1] %}    <a href="{{ postitems[1] }}">{{ postitems[0] }}</a><br> {% endif %}</div>
 {% endfor %}
