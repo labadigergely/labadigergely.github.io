@@ -4,11 +4,11 @@ title: Életrajz
 ---
 
 > <div>
->        <a href="#tanulmanyok">Tanulmányok</a> • 
->        <a href="#munkahely">Munkahely</a> • 
->        <a href="#kutatasi_projektek">Kutatási projektek</a> • 
->        <a href="#intezmenyi_tagsag">Intézményi tagság</a> • 
->        <a href="#osztondijak_elismeresek">Ösztöndíjak, elismerések</a> • 
+>        <a href="#tanulmanyok">Tanulmányok</a> •
+>        <a href="#munkahely">Munkahely</a> •
+>        <a href="#kutatasi_projektek">Kutatási projektek</a> •
+>        <a href="#intezmenyi_tagsag">Intézményi tagság</a> •
+>        <a href="#osztondijak_elismeresek">Ösztöndíjak, elismerések</a> •
 >        <a href="#valogatott_publikaciok">Válogatott publikációk</a>
 > </div>
 
@@ -31,7 +31,7 @@ Tanulmányok
 Munkahely
 ---------
 
-2002–2014
+2002–
 :   *egyetemi docens* • Szegedi Tudományegyetem • Magyar Irodalmi Tanszék
 
 <a name="kutatasi_projektek"></a>
@@ -50,14 +50,14 @@ Kutatási projektek
 
 2007–2011
 :   A XIX. századi művelődéstörténet forrásai. Gyulay Lajos naplói • kutató • Zentai Mária • OTKA
-    
+
 2003–2006
 :   A klasszikus magyar irodalmi örökség feltárása és értelmezése • kutató • Debreczeni Attila • NKFP
 
 2003–2006
 :   Irodalmi intézménytörténeti adatbázis • kutató • Thimár Attila • OTKA
 
-2002–2005 
+2002–2005
 :   A magyar művelődéstörténet elfeledett forrásai • kutató, koordinátor • Szajbély Mihály • OTKA
 
 2000–2003
