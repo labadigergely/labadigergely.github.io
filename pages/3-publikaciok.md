@@ -24,9 +24,9 @@ title: Publikációk
 
 <a name="tanulmanyok"></a>
 
-Tanulmányok, cikkek
-==================
+## Tanulmányok, cikkek
 
+- [Labádi Gergely: Digitális filológia. In Balázs Mihály, Bognár Péter, Fazekas Sándor, Gere Zsolt, Labádi Gergely, Ötvös Péter. *Bevezetés az irodalomtudományba: Digitális tananyag az Irodalomtudományi proszemináriumhoz*. Szeged: SZTE, 2016.](http://www.jgypk.hu/mentorhalo/tananyag/Bevezets_az_irodalomtudomnybaV2/ii_3_digitlis_filolgia_labdi_gergely.html) (egyetemi tankönyv)
 - Labádi Gergely: A pikareszk Magyarországon a 18–19. század fordulóján. *Irodalomtörténeti Közlemények.* 120.2 (2016), 178–190.
 - Labádi Gergely: A filológiai tudás formái. In Czifra Mariann, Szilágyi Márton (szerk.). *Textológia - filológia - értelmezés. Klasszikus magyar irodalom.* Debrecen: Debreceni Egyetemi Kiadó. 2014: 173–190.
 - Labádi Gergely: A kultúra koncepciói az 1810-es években: Fordítások az Erdélyi Muzéum körül. In Egyed Emese (szerk.). *IRODALOMÉRTELMEZÉSEK A FELVILÁGOSODÁSTÓL NAPJAINKIG: I. MAGYAR FELVILÁGOSODÁS. IRODALOM II. (MŰ)FORMA ÉS ÉRTELMEZÉS.* Kolozsvár: Egyetemi Kiadó. 2014: 97–106.
@@ -43,8 +43,8 @@ Tanulmányok, cikkek
 - [Labádi Gergely: Kísérletek a culturáról. Verseghy és a modern kultúrafogalom kialakulása a 18–19. század fordulóján. In *Margonauták: Írások Margócsy István 60. születésnapjára.* Szerk. Ambrus Judit, Bárány Tibor, Csörsz Rumen István, Hegedüs Béla, Vaderna Gábor, munkatárs Teslár Ákos, Budapest: rec.iti, 2009: 57-65.](https://www.academia.edu/1981215/Kiserletek_a_culturarol._Verseghy_es_a_modern_kulturafogalom_kialakulasa_a_18-19._szazad_fordulojan)
 - [Labádi Gergely: Az olvasással és írással kapcsolatos beállítódások a felvilágosodás kori oktatási-nevelési irodalomban. *Iskolakultúra,* 2008/7-8: 74-90.](http://epa.oszk.hu/00000/00011/00133/pdf/2008-7-8.pdf#page=74)
 - [Labádi Gergely: Az olvasó pásztor. A könyv médiuma a felvilágosult népnevelésben. *Erdélyi Múzeum,* 2007/3-4: 63-78.](https://www.academia.edu/1981219/Az_olvaso_pasztor._A_konyv_mediuma_a_felvilagosult_nepnevelesben)
-- Labádi Gergely: Naláczy József versei? Kiegészítések az Ányos-filológiához. In Kolligátum. Tanulmányok a hetvenéves Bíró Ferenc tiszteletére. Szerk. Devescovi Balázs, Szilágyi Márton és Vaderna Gábor. Budapest: Ráció Kiadó, 2007, 249–264. (*„Édes érzékenység”: Tanulmányok Ányos Pálról.* Szerk. Pintér Márta Zsuzsanna. Budapest: Gondolat, 2014, 79–89.)
-- [Labádi Gergely, Fazekas Sándor: Meghal Zrínyi Miklós, színre lép Gyöngyösi. In A magyar irodalom történetei. A kezdetektől 1800-ig. Szerk. Jankovits László, Orlovszky Géza. Budapest: Gondolat Kiadó, 2007, 514–521.](http://villanyspenot.hu/?p=szoveg&n=12275)
+- Labádi Gergely: Naláczy József versei? Kiegészítések az Ányos-filológiához. In *Kolligátum. Tanulmányok a hetvenéves Bíró Ferenc tiszteletére.* Szerk. Devescovi Balázs, Szilágyi Márton és Vaderna Gábor. Budapest: Ráció Kiadó, 2007, 249–264. (*„Édes érzékenység”: Tanulmányok Ányos Pálról.* Szerk. Pintér Márta Zsuzsanna. Budapest: Gondolat, 2014, 79–89.)
+- [Labádi Gergely, Fazekas Sándor: Meghal Zrínyi Miklós, színre lép Gyöngyösi. In *A magyar irodalom történetei. A kezdetektől 1800-ig.* Szerk. Jankovits László, Orlovszky Géza. Budapest: Gondolat Kiadó, 2007, 514–521.](http://villanyspenot.hu/?p=szoveg&n=12275)
 - Labádi Gergely: „meg-irott könyv" és „nyomtatott ének". A kéziratos és a nyomtatott kultúráról a 18. század utolsó harmadában. In *Historia litteraria a 18. században.* Szerk. Csörsz Rumen István, Hegedűs Béla, Tüskés Gábor, Budapest: Universitas Kiadó, 2006: 446-458.
 - Labádi Gergely: Az irodalom közegváltásai a felvilágosodás idején: az episztola példája. In *A látható könyv. Tanulmányok az irodalmi medialitás köréből.* Szerk. Hász-Fehér Katalin, Tiszatáj könyvek, Szeged, 2006, 19-54. *(klasszikus – magyar – irodalom – történet. tanulmányok 2.)*
 - [Labádi Gergely: Brieftheorie in der Literatur der ungarischen Aufklärung. In «prismes irisés» Textes recueilles sur les littératures classiques et modernes, réd. Timea Gyimesi, Beatrix Koncz, Anikó Kőrös, Katalin Kovács, Miklós Pálfy. Szeged: Klebelsberg Kuno Egyetemi Kiadó, 2006: 299–308.](https://www.academia.edu/4941997/Brieftheorie_in_der_Literatur_der_ungarischen_Aufklarung)
@@ -59,14 +59,14 @@ Tanulmányok, cikkek
 
 <a name="szerkesztes"></a>
 
-##Szerkesztés
+## Szerkesztés
 
-###Könyvek
+### Könyvek
 
 - ReTextum. Sorozatszerk. Hegedüs Béla, Labádi Gergely. reciti. Budapest, 2014–
 - klasszikus - magyar - irodalom - történet. tanulmányok 2003. Szerk. Dajkó Pál, Labádi Gergely. Tiszatáj Könyvkiadó, Szeged, 2003.
 
-###Elektronikus publikáció, adatbázis
+### Elektronikus publikáció, adatbázis
 
 - [Gyulay Lajos naplói](http://gyulaynaplok.hu/) (szerkesztő, sajtó alá rendező, 2008–2011)
 - [Digitális Klasszika](http://www.kiad.hu) (szerkesztő, sajtó alá rendező, 1998–2011)
@@ -75,7 +75,7 @@ Tanulmányok, cikkek
 
 <a name="eloadasok"></a>
 
-##Konferenciaelőadások
+## Konferenciaelőadások
 
 - Bátori Anna, Labádi Gergely: Egy regényadatbázis felépítése – kérdések és lehetőségek = DHU 2015. Számítógép az irodalomtudományban, MTA BTK Irodalomtudományi Intézet, BME Méréstechnika és Információs Rendszerek Tanszék, Budapest, 2015. november 24.
 - Labádi Gergely: Egy kétségbeesett apa levelei. Irodalom és nevelés az 1830-as években. = A két Kisfaludy. KRE Magyar Nyelv-, Irodalom- és Kultúratudományi Intézete, Tempevölgy folyóirat, Balatonfüred, 2015. október 23–24.
@@ -100,16 +100,17 @@ Tanulmányok, cikkek
 
 <a name="egyeb"></a>
 
-##Egyéb publikációk
+## Egyéb publikációk
 
-###Szakmai fordítások
+### Szakmai fordítások
 
 - Jürgen Fohrmann: A kommentár mint a tudomány diszkurzív egysége. Ford. Labádi Gergely. *Helikon*, 2008/1: 16-26.
 - Armin Nassehi: A szöveg ideje. A kommunikáció és a szöveg viszonyáról. Ford. Labádi Gergely. In *A háló, a halászok és a halak: Tanulmányok a mezőelmélet, a diskurzusanalízis, a rendszerelmélet és az irodalomtörténet-írás néhány kapcsolódási pontjáról*. Szerk. Rákai Orsolya, Osiris-Pompeji, Budapest-Szeged, 2001, 155-181.
 - Andreas Arndt: A filológia filozófiája. Történeti-kritikai megjegyzések a szövegkiadások filozófiai megközelítéséhez. Ford. Labádi Gergely. *Helikon*, 2000/4: 522-540.
 
-###Recenziók, kritikák
+### Recenziók, kritikák
 
+- Labádi Gergely: Czifra Mariann: Kazinczy Ferenc és az ortológusok. Árnyak és alakok az 1810-es években. *Irodalomtörténet.* 96.2 (2015), 223–226.
 - Labádi Gergely: Franco Moretti: Distant reading. *Irodalomtörténet*. 95.4 (2014), 561-564.
 - [Labádi Gergely: A források provokációja. Biró Annamária: Nemzetek Erdélyben. August Ludwig Schlözer és Aranka György vitája. *Korunk,* 2012. december, 116–118.]()
 - [Labádi Gergely: Takáts József: Ismerős idegen terep. Irodalomtörténeti tanulmányok és bírálatok. *Irodalomtörténeti Közlemények,* 2010/1: 90–95.]()
@@ -121,12 +122,12 @@ Tanulmányok, cikkek
 - Labádi Gergely: Wissenschaftsgeschichte der Germanistik, hrsg. von Jürgen Fohrmann und Wilhelm Voßkamp, Stuttgart, 1994. *Helikon, *2000/4, 597–598.
 - Labádi Gergely: „Egy talált vers megtisztítása”. Szabó G. Zoltán: Kézirattól a kiadásig. Kölcsey Ferenc verseinek szöveghagyománya, Budapest, 1999. *Helikon,* 2000/4, 601–603.
 
-###Közreműködés
+### Közreműködés
 
 - Magyar Irodalmi Hagyaték. Volt egy nő. Sorozatszerk. Camelopardalis Társaság, Pytheas Kiadó, Budapest, 2003. (Dajkó Pállal, Fazekas Sándorral, Pap Balázzsal közösen)
 - Mesterek és tanítványok. Ünnepi tanulmánykötet Csetri Lajos tiszteletére, Magvető Kiadó, Budapest, 1999. (technikai szerkesztés)
 
-###Egyéb publikációk
+### Egyéb publikációk
 
 - [A magyar költő idegen messze földön. Márton László: Minerva búvóhelye. *Forrás,* 2007/2, 90–92.](http://www.forrasfolyoirat.hu/0702/labadi.pdf)
 - [„Megállt az idő, nem?” Pályi András: A kerület órái. Történetek, tárcák, esetek. *RevizorOnline,* 2008. 07. 30.](http://www.revizoronline.hu/article.php?cat_id=1&id=618&first=30)
