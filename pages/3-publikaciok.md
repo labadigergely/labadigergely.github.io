@@ -7,7 +7,8 @@ title: Publikációk
 
 <a name="konyv"></a>
 
-##Könyv
+Könyv
+----
 
 - Labádi Gergely: *A magyar episztola a felvilágosodás korában. Műfaj- és médiatörténeti értelmezés.* Budapest: L'Harmattan-Magyar Irodalomtörténeti Társaság. 2008. *(Ligatura)* • [a korábbi disszertáció-változat.](http://doktori.bibl.u-szeged.hu/489/)
 
