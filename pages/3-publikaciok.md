@@ -24,7 +24,9 @@ title: Publikációk
 
 <a name="tanulmanyok"></a>
 
-##Tanulmányok, cikkek
+Tanulmányok, cikkek
+--------------------
+--------------------
 
 - Labádi Gergely: A pikareszk Magyarországon a 18–19. század fordulóján. *Irodalomtörténeti Közlemények.* 120.2 (2016), 178–190.
 - Labádi Gergely: A filológiai tudás formái. In Czifra Mariann, Szilágyi Márton (szerk.). *Textológia - filológia - értelmezés. Klasszikus magyar irodalom.* Debrecen: Debreceni Egyetemi Kiadó. 2014: 173–190.
