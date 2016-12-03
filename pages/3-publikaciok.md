@@ -74,7 +74,7 @@ title: Publikációk
 
 <a name="eloadasok"></a>
 
-## Konferenciaelőadások
+##Konferenciaelőadások
 - Bátori Anna, Labádi Gergely: Egy regényadatbázis felépítése – kérdések és lehetőségek = DHU 2015. Számítógép az irodalomtudományban, MTA BTK Irodalomtudományi Intézet, BME Méréstechnika és Információs Rendszerek Tanszék, Budapest, 2015. november 24.
 - Labádi Gergely: Egy kétségbeesett apa levelei. Irodalom és nevelés az 1830-as években. = A két Kisfaludy. KRE Magyar Nyelv-, Irodalom- és Kultúratudományi Intézete, Tempevölgy folyóirat, Balatonfüred, 2015. október 23–24.
 - [Kokas Károly, Labádi Gergely, Péter Róbert: Digitális bölcsészet Szegeden, SZTE BTK–SZTE JATIK, Szeged, 2015. október 12. (szervező)](http://digibolcsesz.ek.szte.hu)
@@ -84,7 +84,7 @@ title: Publikációk
 - [Labádi Gergely: A filológiai tudás formái. = Textológia – Filológia – Értelmezés. A 18–19. századi magyar irodalom. MTA--DE Textológiai Kutatócsoport, Miskolci Egyetem Irodalomtudományi DI, Miskolc, 2013. május 29–31.](https://www.academia.edu/5395337/A_filologiai_tudas_formai)
 - Labádi Gergely: Természet vagy kultúra – Csokonai és Schiller. = pictura és/vagy sententia. ELTE, Budapest, 2012. május 25.
 - Labádi Gergely: A magyar kultúrafogalom genezise(i): Csokonai = Az MTA Bolyai János Kutatási Ösztöndíjas szegedi kutatók és az Információs Társadalom jogi alprogram kutatóinak tudományos konferenciája, Szeged, 2011. december 15.
-- Labádi Gergely: Bölöni Farkas Sándor és a kultúra koncepciói az 1810-es években. = VII. Nemzetközi Hungarológiai Kongresszus, Kolozsvár, 2011. augusztus 22–27. 
+- Labádi Gergely: Bölöni Farkas Sándor és a kultúra koncepciói az 1810-es években. = VII. Nemzetközi Hungarológiai Kongresszus, Kolozsvár, 2011. augusztus 22–27.
 - Labádi Gergely: Évnapok: visszaemlékezni, elmélkedni, ábrándozni – Gyulay Lajos naptárai = Főúri íráskultúra a XIX. században, Szeged, 2011. április 29–30.
 - Labádi Gergely: Jog és/vagy irodalom a jakobinus perben = Jog és irodalom. Szeged, 2010. november 4–5.
 - Labádi Gergely: A „csombókos” érzékeny: A Felfedezett titok és az érzékenység nyelve = Magyar Arión – Konferencia Pálóczi Horváth Ádám születésének 250. évfordulója tiszteletére, Budapest, 2010. október 20–21.
@@ -106,7 +106,7 @@ title: Publikációk
 - Armin Nassehi: A szöveg ideje. A kommunikáció és a szöveg viszonyáról. Ford. Labádi Gergely. In *A háló, a halászok és a halak: Tanulmányok a mezőelmélet, a diskurzusanalízis, a rendszerelmélet és az irodalomtörténet-írás néhány kapcsolódási pontjáról*. Szerk. Rákai Orsolya, Osiris-Pompeji, Budapest-Szeged, 2001, 155-181.
 - Andreas Arndt: A filológia filozófiája. Történeti-kritikai megjegyzések a szövegkiadások filozófiai megközelítéséhez. Ford. Labádi Gergely. *Helikon*, 2000/4: 522-540.
 
-### Recenziók, kritikák
+###Recenziók, kritikák
 
 - Labádi Gergely: Franco Moretti: Distant reading. *Irodalomtörténet*. 95.4 (2014), 561-564.
 - [Labádi Gergely: A források provokációja. Biró Annamária: Nemzetek Erdélyben. August Ludwig Schlözer és Aranka György vitája. *Korunk,* 2012. december, 116–118.]()
@@ -119,12 +119,12 @@ title: Publikációk
 - Labádi Gergely: Wissenschaftsgeschichte der Germanistik, hrsg. von Jürgen Fohrmann und Wilhelm Voßkamp, Stuttgart, 1994. *Helikon, *2000/4, 597–598.
 - Labádi Gergely: „Egy talált vers megtisztítása”. Szabó G. Zoltán: Kézirattól a kiadásig. Kölcsey Ferenc verseinek szöveghagyománya, Budapest, 1999. *Helikon,* 2000/4, 601–603.
 
-### Közreműködés
+###Közreműködés
 
 - Magyar Irodalmi Hagyaték. Volt egy nő. Sorozatszerk. Camelopardalis Társaság, Pytheas Kiadó, Budapest, 2003. (Dajkó Pállal, Fazekas Sándorral, Pap Balázzsal közösen)
 - Mesterek és tanítványok. Ünnepi tanulmánykötet Csetri Lajos tiszteletére, Magvető Kiadó, Budapest, 1999. (technikai szerkesztés)
 
-### Egyéb publikációk
+###Egyéb publikációk
 
 - [A magyar költő idegen messze földön. Márton László: Minerva búvóhelye. *Forrás,* 2007/2, 90–92.](http://www.forrasfolyoirat.hu/0702/labadi.pdf)
 - [„Megállt az idő, nem?” Pályi András: A kerület órái. Történetek, tárcák, esetek. *RevizorOnline,* 2008. 07. 30.](http://www.revizoronline.hu/article.php?cat_id=1&id=618&first=30)
