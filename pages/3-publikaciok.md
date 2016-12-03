@@ -3,7 +3,7 @@ layout: page
 title: Publikációk
 ---
 
-> <a href="#konyv">Könyv</a> • <a href="#kiadasok">Kritikai kiadások, forráskiadás</a> • <a href="#tanulmanyok">Tanulmányok, cikkek</a> • <a href="#szerkesztes">Szerkesztés</a> • <a href="#eloadasok">Konferenciaelőadások</a> • <a href="#egyeb">Egyéb publikációk</a>
+<a href="#konyv">Könyv</a> • <a href="#kiadasok">Kritikai kiadások, forráskiadás</a> • <a href="#tanulmanyok">Tanulmányok, cikkek</a> • <a href="#szerkesztes">Szerkesztés</a> • <a href="#eloadasok">Konferenciaelőadások</a> • <a href="#egyeb">Egyéb publikációk</a>
 
 <a name="konyv"></a>
 
