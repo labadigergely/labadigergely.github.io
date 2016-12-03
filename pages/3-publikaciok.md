@@ -3,12 +3,11 @@ layout: page
 title: Publikációk
 ---
 
-    <a href="#konyv">Könyv</a> • <a href="#kiadasok">Kritikai kiadások, forráskiadás</a> • <a href="#tanulmanyok">Tanulmányok, cikkek</a> • <a href="#szerkesztes">Szerkesztés</a> • <a href="#eloadasok">Konferenciaelőadások</a> • <a href="#egyeb">Egyéb publikációk</a>
+> <a href="#konyv">Könyv</a> • <a href="#kiadasok">Kritikai kiadások, forráskiadás</a> • <a href="#tanulmanyok">Tanulmányok, cikkek</a> • <a href="#szerkesztes">Szerkesztés</a> • <a href="#eloadasok">Konferenciaelőadások</a> • <a href="#egyeb">Egyéb publikációk</a>
 
 <a name="konyv"></a>
 
-Könyv
-----
+##Könyv
 
 - Labádi Gergely: *A magyar episztola a felvilágosodás korában. Műfaj- és médiatörténeti értelmezés.* Budapest: L'Harmattan-Magyar Irodalomtörténeti Társaság. 2008. *(Ligatura)* • [a korábbi disszertáció-változat.](http://doktori.bibl.u-szeged.hu/489/)
 
@@ -76,6 +75,7 @@ Könyv
 <a name="eloadasok"></a>
 
 ##Konferenciaelőadások
+
 - Bátori Anna, Labádi Gergely: Egy regényadatbázis felépítése – kérdések és lehetőségek = DHU 2015. Számítógép az irodalomtudományban, MTA BTK Irodalomtudományi Intézet, BME Méréstechnika és Információs Rendszerek Tanszék, Budapest, 2015. november 24.
 - Labádi Gergely: Egy kétségbeesett apa levelei. Irodalom és nevelés az 1830-as években. = A két Kisfaludy. KRE Magyar Nyelv-, Irodalom- és Kultúratudományi Intézete, Tempevölgy folyóirat, Balatonfüred, 2015. október 23–24.
 - [Kokas Károly, Labádi Gergely, Péter Róbert: Digitális bölcsészet Szegeden, SZTE BTK–SZTE JATIK, Szeged, 2015. október 12. (szervező)](http://digibolcsesz.ek.szte.hu)
