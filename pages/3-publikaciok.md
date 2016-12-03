@@ -7,13 +7,13 @@ title: Publikációk
 
 <a name="konyv"></a>
 
-##Könyv
+## Könyv
 
 - Labádi Gergely: *A magyar episztola a felvilágosodás korában. Műfaj- és médiatörténeti értelmezés.* Budapest: L'Harmattan-Magyar Irodalomtörténeti Társaság. 2008. *(Ligatura)* • [a korábbi disszertáció-változat.](http://doktori.bibl.u-szeged.hu/489/)
 
 <a name="kiadasok"></a>
 
-##Kritikai kiadások, forráskiadások
+## Kritikai kiadások, forráskiadások
 
 - [Kis János: *A' Magyar Páméla*. S. a. r. Labádi Gergely. Budapest: reciti. 2014.](http://reciti.hu/2014/2256)
 - *Német Máté koma.* S. a. r., utószó, jegyzetek Labádi Gergely, Balázs Péter. Budapest: Balassi, 2014.
@@ -25,8 +25,7 @@ title: Publikációk
 <a name="tanulmanyok"></a>
 
 Tanulmányok, cikkek
---------------------
---------------------
+==================
 
 - Labádi Gergely: A pikareszk Magyarországon a 18–19. század fordulóján. *Irodalomtörténeti Közlemények.* 120.2 (2016), 178–190.
 - Labádi Gergely: A filológiai tudás formái. In Czifra Mariann, Szilágyi Márton (szerk.). *Textológia - filológia - értelmezés. Klasszikus magyar irodalom.* Debrecen: Debreceni Egyetemi Kiadó. 2014: 173–190.
