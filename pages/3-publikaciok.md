@@ -77,6 +77,7 @@ title: Publikációk
 
 ## Konferenciaelőadások
 
+- Labádi Gergely: Távol, mégis közel. Berzsenyi Dániel életműve és az új irodalomtudományi módszerek = Az ismeretlen klasszikus. Tudományos Ülésszak Berzsenyi Dániel életművéről. MTA Nyelv- és Irodalomtudományok Osztálya. Budapest, 2016. november 11.
 - Bátori Anna, Labádi Gergely: Egy regényadatbázis felépítése – kérdések és lehetőségek = DHU 2015. Számítógép az irodalomtudományban, MTA BTK Irodalomtudományi Intézet, BME Méréstechnika és Információs Rendszerek Tanszék, Budapest, 2015. november 24.
 - Labádi Gergely: Egy kétségbeesett apa levelei. Irodalom és nevelés az 1830-as években. = A két Kisfaludy. KRE Magyar Nyelv-, Irodalom- és Kultúratudományi Intézete, Tempevölgy folyóirat, Balatonfüred, 2015. október 23–24.
 - [Kokas Károly, Labádi Gergely, Péter Róbert: Digitális bölcsészet Szegeden, SZTE BTK–SZTE JATIK, Szeged, 2015. október 12. (szervező)](http://digibolcsesz.ek.szte.hu)
