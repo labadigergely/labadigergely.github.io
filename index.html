@@ -9,6 +9,24 @@ title: Home
 <hr/>
 
 <div class="posts">
+  {% for post in site.categories.szovegek limit: 1 %}
+
+  <div class="post">
+    <h3 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }} • {{ post.tags | join: ', ' }}</span>
+
+  {{ post.excerpt }} <a href="{{ post.url }}">Tovább</a>
+  </div>
+
+  {% endfor %}
+</div>
+
+<div class="posts">
   {% for post in site.categories.lesebibliothek limit: 1 %}
 
   <div class="post">
@@ -21,24 +39,6 @@ title: Home
     <span class="post-date">{{ post.date | date: "%Y-%m-%d" }} • {{ post.tags | join: ', ' }}</span>
 
   {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}">Tovább</a>
-  </div>
-
-  {% endfor %}
-</div>
-
-<div class="posts">
-  {% for post in site.categories.szovegek limit: 2 %}
-
-  <div class="post">
-    <h3 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }} • {{ post.tags | join: ', ' }}</span>
-
-  {{ post.excerpt }} <a href="{{ post.url }}">Tovább</a>
   </div>
 
   {% endfor %}
