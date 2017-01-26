@@ -77,6 +77,7 @@ title: Publikációk
 
 ## Konferenciaelőadások
 
+- Labádi Gergely: *Filológia az információs társadalomban.* = XIII. Magyar Számítógépes Nyelvészeti Konferencia. SZTE–MTA. Szeged, 2017. január 26–27.
 - Labádi Gergely: *Távoli olvasó olvas.* = Digitális kultúra és szövegkultúra a felsőoktatásban. ELTE. Budapest, 2017. január 12.
 - Labádi Gergely: *Távol, mégis közel. Berzsenyi Dániel életműve és az új irodalomtudományi módszerek* = Az ismeretlen klasszikus. Tudományos Ülésszak Berzsenyi Dániel életművéről. MTA Nyelv- és Irodalomtudományok Osztálya. Budapest, 2016. november 11.
 - Bátori Anna, Labádi Gergely: *Egy regényadatbázis felépítése – kérdések és lehetőségek* = DHU 2015. Számítógép az irodalomtudományban, MTA BTK Irodalomtudományi Intézet, BME Méréstechnika és Információs Rendszerek Tanszék, Budapest, 2015. november 24.
