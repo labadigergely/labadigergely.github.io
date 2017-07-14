@@ -26,6 +26,7 @@ title: Publikációk
 
 ## Tanulmányok, cikkek
 
+- Labádi Gergely: Évnapok: visszaemlékezni, elmélkedni, ábrándozni: Gyulay Lajos naptárai.Bartha Katalin Ágnes, Biró Annamária, Demeter Zsuzsa, Tar Gabriella_Nóra (szerk.): *Hortus Amicorum. Köszöntőkötet Egyed Emese tiszteletére.* Kolozsvár, EME, 2017, 233-238.
 - Labádi Gergely: A magyar regény adatbázisa. ACTA HISTORIAE LITTERARUM HUNGARICARUM. ACTA UNIVERSITATIS SZEGEDIENSIS 32:(1) pp. 11-30. (2016)
 - [Labádi Gergely: Digitális filológia. In Balázs Mihály, Bognár Péter, Fazekas Sándor, Gere Zsolt, Labádi Gergely, Ötvös Péter. *Bevezetés az irodalomtudományba: Digitális tananyag az Irodalomtudományi proszemináriumhoz*. Szeged: SZTE, 2016.](http://www.jgypk.hu/mentorhalo/tananyag/Bevezets_az_irodalomtudomnybaV2/ii_3_digitlis_filolgia_labdi_gergely.html) (egyetemi tankönyv)
 - Labádi Gergely: A pikareszk Magyarországon a 18–19. század fordulóján. *Irodalomtörténeti Közlemények.* 120.2 (2016), 178–190.
